@@ -1,17 +1,26 @@
 name: Build and Deploy
-on: [push]
+on:
+  push:	
+    branches:	
+      - master
 jobs:
-  build-and-deploy:
+  integration-test:
     runs-on: ubuntu-latest
     steps:
     - name: Checkout
-      uses: actions/checkout@master
-
+      uses: actions/checkout@v1
+    - name: Install
+      run: |
+        npm install
+        npm run build
+        mkdir public
+        cp -R node_modules public
+        cp custom.css public/custom.css
+        cp slides.html public/index.html
+        touch public/.nojekyll
     - name: Build and Deploy
-      uses: JamesIves/github-pages-deploy-action@master
-      env:
+      uses: JamesIves/github-pages-deploy-action@releases/v3
+      with:
         ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
-        BASE_BRANCH: master
         BRANCH: gh-pages
-        FOLDER: public 
-        BUILD_SCRIPT: npm install && npm run build && mkdir public && cp -R node_modules public && cp custom.css public/custom.css && cp slides.html public/index.html && touch public/.nojekyll
+        FOLDER: public
