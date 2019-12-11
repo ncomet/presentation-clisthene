@@ -11,7 +11,7 @@
 
 == C'est quoi
 
-C'est quoi hein? Vraiment? En vrai :o
+C'est quoi hein? AH
 
 image::what-is-a-developer.jpg[dev, 700]
 
