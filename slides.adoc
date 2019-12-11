@@ -1,4 +1,5 @@
 = Développeur ?
+:imagesdir: images
 :source-highlighter: highlightjs
 :revealjs_theme: white
 :revealjs_history: true
@@ -10,5 +11,7 @@
 
 == C'est quoi
 
-C'est quoi hein? dsdd
+C'est quoi hein?
+
+image::what-is-a-developer.jpg[dev, 700]
 
