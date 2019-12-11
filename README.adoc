@@ -1,0 +1,14 @@
+= Presentation Clisthène Bordeaux
+
+== Tools
+
+Based on https://github.com/asciidoctor/asciidoctor-reveal.js
+
+Pre-requisites:: npm
+
+.Generate HTML slides
+[source, bash]
+----
+npm install
+npm run build
+----
