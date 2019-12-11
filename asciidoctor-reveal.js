@@ -5,4 +5,4 @@ asciidoctorRevealjs.register()
 
 // Convert the document 'slides.adoc' using the reveal.js converter
 const options = {safe: 'safe', backend: 'revealjs'};
-asciidoctor.convertFile('slides.adoc', options);
+asciidoctor.convertFile('slides.adoc', options); // (1)
