@@ -3,7 +3,7 @@
 }
 
 body {
-    background-image: url('images/what-is-a-developer.jpg');
+    background-image: url('cssimages/what-is-a-developer.jpg');
     background-size: cover;
     background-color: rgba(255,255,255,0.7);
     background-blend-mode: lighten;
