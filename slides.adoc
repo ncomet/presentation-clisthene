@@ -9,12 +9,96 @@
 :data-uri:
 :icons: font
 
+== Qui je suis ?
+
+icon:male[] Nicolas Comet +
+icon:briefcase[] Développeur & TechLead
+
+image::lectra.png[]
+
+image::lectra-versalis.jpg[versalis, 800]
+
+== Synonymes
+
+[%step]
+* Informaticien
+* (Analyste) Programmeur
+* Codeur
+
 == C'est quoi ?
 
 Dans les films
 
 image::what-is-a-developer.jpg[dev, 700]
 
-== En vrai ?
+== Les jeux vidéos ?
 
-== Test
+image::fortnite.jpg[dev, 700]
+
+== Selon vous...
+
+Quelles qualités faut-il pour être développeur ?
+
+== Bon en maths ?
+
+image::maths.jpg[maths]
+
+Oui, mais pas forcément !
+
+* logique
+* rigueur
+
+== Réparateur d'ordinateurs ?
+
+C'est un préjugé !
+
+Un développeur ne doit pas obligatoirement savoir réparer un ordinateur, une imprimante...
+
+== Parler à une machine
+
+Langage de programmation
+
+image::matrix.jpg[matrix, 500]
+
+== En réalité, ça fait moins peur
+
+image::kotlin.png[]
+
+== Ca peut même être drôle
+
+video::xGmXxpIj6vs[youtube, start=267]
+
+== Que peut-on développer ?
+
+* Applications Web (sites)
+* Applications sur mobile (IOS, Android)
+* Services Cloud
+* Jeux vidéos
+* Intelligences artificielles
+* Robots, machines
+
+== Études
+
+* Bac S / STI / STD
+* IUT Informatique (Bac +2)
+* Licence Informatique (Bac +3)
+* Master Informatique (Bac +5)
+
+== Salaire
+
+Développeur polyvalent
+
+[%header,cols=3*] 
+|===
+|Expérience
+|Province
+|Paris
+
+|Débutant
+|2000€/mois
+|2600€/mois
+
+|Senior
+|3000€/mois
+|4000€/mois
+|===
