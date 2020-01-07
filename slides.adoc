@@ -31,7 +31,7 @@ image::lectra-versalis.jpg[versalis, 600]
 
 Dans les films
 
-image::what-is-a-developer.jpg[dev, 700]
+image::hacker.jpg[dev, 700]
 
 == Les jeux vidéos ?
 
