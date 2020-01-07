@@ -108,5 +108,4 @@ Développeur "non spécialisé"
 
 == Questions ?
 
-[%step]
 image::questions.gif[]
