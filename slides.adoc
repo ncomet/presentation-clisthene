@@ -20,7 +20,7 @@ image::lectra.png[]
 
 image::lectra-versalis.jpg[versalis, 600]
 
-== Synonymes
+== Synonymes "développeur" ?
 
 [%step]
 * Informaticien
@@ -81,6 +81,7 @@ video::xGmXxpIj6vs[youtube, start=267]
 
 == Études
 
+[%step]
 * Bac options scientifiques
 * IUT Informatique (Bac +2)
 * Licence Informatique (Bac +3)
@@ -88,7 +89,7 @@ video::xGmXxpIj6vs[youtube, start=267]
 
 == Salaire
 
-Développeur polyvalent
+Développeur "non spécialisé"
 
 [%header,cols=3*] 
 |===
@@ -104,3 +105,8 @@ Développeur polyvalent
 |3000€/mois
 |4000€/mois
 |===
+
+== Questions ?
+
+[%step]
+image::questions.gif[]
