@@ -14,6 +14,8 @@
 icon:male[] Nicolas Comet +
 icon:briefcase[] Développeur & TechLead
 
+== Mon entreprise
+
 image::lectra.png[]
 
 image::lectra-versalis.jpg[versalis, 800]
@@ -79,7 +81,7 @@ video::xGmXxpIj6vs[youtube, start=267]
 
 == Études
 
-* Bac S / STI / STD
+* Bac options scientifiques
 * IUT Informatique (Bac +2)
 * Licence Informatique (Bac +3)
 * Master Informatique (Bac +5)
