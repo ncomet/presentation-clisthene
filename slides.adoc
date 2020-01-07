@@ -66,7 +66,7 @@ image::matrix.jpg[matrix, 500]
 
 image::kotlin.png[]
 
-== Ca peut même être drôle
+== Ça peut même être drôle
 
 video::xGmXxpIj6vs[youtube, start=267]
 
