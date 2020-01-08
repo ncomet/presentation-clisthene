@@ -95,7 +95,7 @@ Tous !
 
 == Pas de chômage
 
-image::offres.png[600]
+image::offres.png[offres, 600]
 
 == Études
 
