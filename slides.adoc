@@ -79,6 +79,10 @@ video::xGmXxpIj6vs[youtube, start=267]
 * Intelligences artificielles
 * Robots, machines
 
+== Dans quels secteurs
+
+Tous !
+
 == Études
 
 [%step]
@@ -89,7 +93,7 @@ video::xGmXxpIj6vs[youtube, start=267]
 
 == Salaire
 
-Développeur "non spécialisé"
+Développeur "non spécialisé" (Bac +5)
 
 [%header,cols=3*] 
 |===
