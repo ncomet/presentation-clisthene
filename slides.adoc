@@ -50,12 +50,15 @@ Oui, mais pas forcément !
 * logique
 * rigueur
 
+== Uniquement un homme ?
+
+image::duchess.jpg[]
+
 == Réparateur d'ordinateurs ?
 
 [%step]
-C'est un préjugé !
-
-Un développeur ne doit pas obligatoirement savoir réparer un ordinateur, une imprimante...
+* C'est un préjugé !
+* Un développeur ne doit pas obligatoirement savoir réparer un ordinateur, une imprimante...
 
 == Parler à une machine
 
@@ -75,7 +78,6 @@ video::xGmXxpIj6vs[youtube, start=267]
 
 * Applications Web (sites)
 * Applications sur mobile (IOS, Android)
-* Services Cloud
 * Jeux vidéos
 * Intelligences artificielles
 * Robots, machines
@@ -83,6 +85,17 @@ video::xGmXxpIj6vs[youtube, start=267]
 == Dans quels secteurs
 
 Tous !
+
+* Industrie
+* Public
+* Privé
+* Associations
+* ONGs
+* Mode
+
+== Pas de chômage
+
+image::offres.png[]
 
 == Études
 
