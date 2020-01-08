@@ -52,6 +52,7 @@ Oui, mais pas forcément !
 
 == Réparateur d'ordinateurs ?
 
+[%step]
 C'est un préjugé !
 
 Un développeur ne doit pas obligatoirement savoir réparer un ordinateur, une imprimante...
